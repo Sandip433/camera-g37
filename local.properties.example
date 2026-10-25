@@ -1,0 +1,3 @@
+# Copy to local.properties or pass via GitHub Secrets (GEMINI_API_KEY)
+# You can also enter or update your Gemini API Key directly inside the app's UI!
+GEMINI_API_KEY=your_gemini_api_key_here
