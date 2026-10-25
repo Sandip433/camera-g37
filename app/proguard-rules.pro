@@ -1,0 +1,4 @@
+-keepattributes *Annotation*,InnerClasses,EnclosingMethod,Signature
+-keep class com.motocam.g37.processing.NativeComputationalProcessor { *; }
+-keep class com.motocam.g37.processing.GeminiMasteringRecipe { *; }
+-keep class com.motocam.g37.processing.GeminiMasteringRecipe$$serializer { *; }
